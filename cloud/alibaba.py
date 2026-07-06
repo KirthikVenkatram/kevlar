@@ -13,7 +13,7 @@ from typing import Any
 from openai import OpenAI
 
 DASHSCOPE_BASE_URL = os.environ.get(
-    "DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    "DASHSCOPE_BASE_URL", "https://dashscope-intl.aliyuncs.com/compatible-mode/v1"
 )
 DASHSCOPE_MODEL = os.environ.get("DASHSCOPE_MODEL", "qwen-max")
 
