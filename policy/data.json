@@ -1,0 +1,4 @@
+{
+  "epss_threshold": 0.5,
+  "allowlist": ["log4j-core", "requests", "lodash"]
+}

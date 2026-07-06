@@ -1,0 +1,12 @@
+{
+  "cve": "CVE-2020-1111",
+  "package": "some-lib",
+  "epss": 0.02,
+  "in_kev": false,
+  "bump": {
+    "package": "some-lib",
+    "from_version": "3.1.0",
+    "to_version": "3.1.1",
+    "is_major_bump": false
+  }
+}

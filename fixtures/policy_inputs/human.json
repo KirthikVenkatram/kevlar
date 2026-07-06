@@ -1,0 +1,12 @@
+{
+  "cve": "CVE-2014-9999",
+  "package": "requests",
+  "epss": 0.7,
+  "in_kev": false,
+  "bump": {
+    "package": "requests",
+    "from_version": "1.2.3",
+    "to_version": "2.0.0",
+    "is_major_bump": true
+  }
+}
